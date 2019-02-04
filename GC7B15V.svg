@@ -1,0 +1,361 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+     xmlns="http://www.w3.org/2000/svg" width="210" height="210">
+<title>GC7B15V</title>
+
+<g id="sun">
+<polygon
+	points="112,108 112,102 118,105"
+	style="fill:#ff6600" />
+<polygon
+	points="112,108 112,102 118,105"
+	style="fill:#ff6600"
+	transform="rotate(45,105,105)" />
+<polygon
+	points="112,108 112,102 118,105"
+	style="fill:#ff6600"
+	transform="rotate(90,105,105)" />
+<polygon
+	points="112,108 112,102 118,105"
+	style="fill:#ff6600"
+	transform="rotate(135,105,105)" />
+<polygon
+	points="112,108 112,102 118,105"
+	style="fill:#ff6600"
+	transform="rotate(180,105,105)" />
+<polygon
+	points="112,108 112,102 118,105"
+	style="fill:#ff6600"
+	transform="rotate(225,105,105)" />
+<polygon
+	points="112,108 112,102 118,105"
+	style="fill:#ff6600"
+	transform="rotate(270,105,105)" />
+<polygon
+	points="112,108 112,102 118,105"
+	style="fill:#ff6600"
+	transform="rotate(315,105,105)" />
+<circle
+	cx="105"
+	cy="105"
+	r="8"
+	style="fill:#f7f000;stroke:#ff6600;stroke-width:1" />
+	
+	<animateTransform href="#sun"
+           attributeName="transform" 
+           attributeType="XML"
+           type="rotate"
+           from="360 105 105"
+           to="0 105 105" 
+           dur="30s"
+           begin="0s"
+           repeatCount="indefinite"
+           fill="freeze"
+                    
+           />
+
+</g>
+
+<circle
+       style="fill:none;stroke:#999999ff;stroke-width:1;stroke-opacity:1"
+       cx="105"
+       cy="105"
+       r="94.5" />
+
+<circle
+       style="fill:none;stroke:#999999ff;stroke-width:1;stroke-opacity:1"
+       cx="105"
+       cy="105"
+       r="82.5" />
+
+<circle
+       style="fill:none;stroke:#999999ff;stroke-width:1;stroke-opacity:1"
+       cx="105"
+       cy="105"
+       r="70.5" />
+
+<circle
+       style="fill:none;stroke:#999999ff;stroke-width:1;stroke-opacity:1"
+       cx="105"
+       cy="105"
+       r="58.5" />
+
+<circle
+       style="fill:none;stroke:#999999ff;stroke-width:1;stroke-opacity:1"
+       cx="105"
+       cy="105"
+       r="46.5" />
+
+<circle
+       style="fill:none;stroke:#999999ff;stroke-width:1;stroke-opacity:1"
+       cx="105"
+       cy="105"
+       r="34.5" />
+
+<circle
+       style="fill:none;stroke:#999999ff;stroke-width:1;stroke-opacity:1"
+       cx="105"
+       cy="105"
+       r="22.5" />
+
+<circle
+         r="5"
+         cy="199"
+         cx="105"
+         id="brown1"
+         style="fill:#996633">
+<animateTransform
+           id="b6" 
+           attributeName="transform" 
+           attributeType="XML"
+           type="rotate"
+           from="360 105 105"
+           to="0 105 105" 
+           dur="2s"
+           begin="b4.end+0.5s"
+           repeatCount="1"
+           fill="freeze"
+                    
+           />
+
+</circle>
+
+
+<circle
+         r="5"
+         cy="187"
+         cx="105"
+         id="brown2"
+         style="fill:#996633">
+</circle>
+
+<circle
+         r="5"
+         cy="175"
+         cx="105"
+         id="brown3"
+         style="fill:#996633">
+<animateTransform
+           id="b4" 
+           attributeName="transform" 
+           attributeType="XML"
+           type="rotate"
+           from="360 105 105"
+           to="0 105 105" 
+           dur="2s"
+           begin="b3.end+0.5s"
+           repeatCount="5"
+           fill="freeze"
+                    
+           />
+</circle>
+
+<circle
+         r="5"
+         cy="163"
+         cx="105"
+         id="brown4"
+         style="fill:#996633">
+<animateTransform
+           id="b3" 
+           attributeName="transform" 
+           attributeType="XML"
+           type="rotate"
+           from="360 105 105"
+           to="0 105 105" 
+           dur="2s"
+           begin="b2.end+0.5s"
+           repeatCount="6"
+           fill="freeze"
+                    
+           />
+</circle>
+
+<circle
+         r="5"
+         cy="151"
+         cx="105"
+         id="brown5"
+         style="fill:#996633">
+</circle>
+
+<circle
+         r="5"
+         cy="139"
+         cx="105"
+         id="brown6"
+         style="fill:#996633">
+<animateTransform
+           id="b2" 
+           attributeName="transform" 
+           attributeType="XML"
+           type="rotate"
+           from="360 105 105"
+           to="0 105 105" 
+           dur="2s"
+           begin="b1.end+0.5s"
+           repeatCount="1"
+           fill="freeze"
+                    
+           />
+</circle>
+
+<circle
+         r="5"
+         cy="127"
+         cx="105"
+         id="brown7"
+         style="fill:#996633">
+<animateTransform
+           id="b1" 
+           attributeName="transform" 
+           attributeType="XML"
+           type="rotate"
+           from="360 105 105"
+           to="0 105 105" 
+           dur="2s"
+           begin="0s; bl6.end+0.5s"
+           repeatCount="5"
+           fill="freeze"
+           
+                    
+           />
+</circle>
+
+<circle
+         r="5"
+         cy="199"
+         cx="105"
+         id="blue1"
+         style="fill:#66ccff">
+<animateTransform
+           id="bl6" 
+           attributeName="transform" 
+           attributeType="XML"
+           type="rotate"
+           from="0 105 105"
+           to="360 105 105" 
+           dur="2s"
+           begin="bl5.end+0.5s"
+           repeatCount="2"
+           fill="freeze"
+                    
+           />
+</circle>
+
+<circle
+         r="5"
+         cy="187"
+         cx="105"
+         id="blue2"
+         style="fill:#66ccff">
+<animateTransform
+           id="bl5" 
+           attributeName="transform" 
+           attributeType="XML"
+           type="rotate"
+           from="0 105 105"
+           to="360 105 105" 
+           dur="2s"
+           begin="bl4.end+0.5s"
+           repeatCount="6"
+           fill="freeze"
+                    
+           />
+</circle>
+
+<circle
+         r="5"
+         cy="175"
+         cx="105"
+         id="blue3"
+         style="fill:#66ccff">
+<animateTransform
+           id="bl4" 
+           attributeName="transform" 
+           attributeType="XML"
+           type="rotate"
+           from="0 105 105"
+           to="360 105 105" 
+           dur="2s"
+           begin="bl3.end+0.5s"
+           repeatCount="1"
+           fill="freeze"
+                    
+           />
+</circle>
+
+<circle
+         r="5"
+         cy="163"
+         cx="105"
+         id="blue4"
+         style="fill:#66ccff">
+<animateTransform
+           id="bl3" 
+           attributeName="transform" 
+           attributeType="XML"
+           type="rotate"
+           from="0 105 105"
+           to="360 105 105" 
+           dur="2s"
+           begin="bl2.end+0.5s"
+           repeatCount="5"
+           fill="freeze"
+                    
+           />
+</circle>
+
+<circle
+         r="5"
+         cy="151"
+         cx="105"
+         id="blue5"
+         style="fill:#66ccff">
+</circle>
+
+<circle
+         r="5"
+         cy="139"
+         cx="105"
+         id="blue6"
+         style="fill:#66ccff">
+<animateTransform
+           id="bl2" 
+           attributeName="transform" 
+           attributeType="XML"
+           type="rotate"
+           from="0 105 105"
+           to="360 105 105" 
+           dur="2s"
+           begin="bl1.end+0.5s"
+           repeatCount="7"
+           fill="freeze"
+                    
+           />
+</circle>
+
+<circle
+         r="5"
+         cy="127"
+         cx="105"
+         id="blue7"
+         style="fill:#66ccff">
+<animateTransform
+           id="bl1" 
+           attributeName="transform" 
+           attributeType="XML"
+           type="rotate"
+           from="0 105 105"
+           to="360 105 105" 
+           dur="2s"
+           begin="0s; bl6.end+0.5s"
+           repeatCount="1"
+           fill="freeze"
+                    
+           />
+</circle>
+
+</svg>
